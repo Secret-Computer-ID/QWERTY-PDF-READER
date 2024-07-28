@@ -1,10 +1,18 @@
 # QWERTY READER
 
-**Welcome to QWERTY READER, A PDF Reader From Me Secret Computer ID**
+**Welcome to QWERTY PDF READER a open source project , a Fast And Light PDF Reader designed to Makes it easy to open PDFs on laptops or low-end devices. With Lightweight features Will Produce Optimal Performance Compared to Other PDF Readers**
 
-_ℹ️ This App Currently In Development_
+_What to Expect from QWERTY Reader?_
 
-_Contribution In The Development Of This QWERTY READER. Please DM Me On Instagram To Request The Source Code_
-Source Code On Github Is Coming
+_✨ Speed ​​and Performance: With Interesting Features, But Lightweight. Making This One PDF Reader Rich in Lightweight Features_
 
-### This Apps Is Write In Python Languange With ChatGPT Help :)
+_🌐 Multi Platform: Connect Your Cloud Storage (Like Onedrive, Google Drive) To This QWERTY Reader, Then You Can Work On Any Device._
+**_Note: Android, Linux, MacOS Coming Soon_**
+
+_🚀 Flexibility and Personalization: Customize InfinityOS to suit your needs and style. With a variety of customization options, you can make this operating system truly yours._
+
+
+
+### This project is still under development So only basic features like reading PDFs are available, to contribute you can fork this project
+
+_This Project Was Made Possible With The Help Of ChatGPT, GitHub And References From Microsoft Edge PDF_
